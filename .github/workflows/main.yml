@@ -1,0 +1,30 @@
+node_modules/
+
+{
+  "name": "library-system",
+  "version": "1.0.0",
+  "description": "Номын сангийн мэдээллийн систем",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
+
+{
+  "name": "library-system",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "library-system",
+      "version": "1.0.0",
+      "engines": {
+        "node": ">=20"
+      }
+    }
+  }
+}
